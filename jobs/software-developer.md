@@ -19,24 +19,20 @@ We are logging for people who improve our team. Our ideal lad is:
 
 ## Requirements
 
-At least 3 years of work experience as a software engineer.
-Fluent in design patterns and other Computer Science fundamentals.
-Proficient in ECMAScript 2017.
-Proficient in HTML5 & CSS3.
-Experienced in SPAs (single-page apps).
-Experienced in front-end frameworks like React or Angular (we use React).
-Experienced in tests (writing unit tests, end-to-end tests).
-Able communicator in English. Portuguese is optional but welcome.
-
-## Nice to have
-
-- At least 1 year of work experience as a software engineer;
+- At least 2 year of work experience as a software engineer;
 - Fluent in design patterns and other Computer Science fundamentals;
 - Proficient in HTML5 & CSS3;
 - Experienced in .NET Core, C# and Powershell;
 - Experienced in Sql Server and Git;
 - Experienced in tests (writing unit tests, integration tests and end-to-end tests);
 - Able communicator in English.
+
+## Nice to have
+
+- CICD experience with Team City, Octopus Deploy and GitLab;
+- Experienced in docker and/or kubernetes;
+- Amazing team player;
+- Experienced in Scrum ceremonies;
 
 ## Compensation and Perks
 
