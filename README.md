@@ -12,6 +12,6 @@ For this to come true, we need to get the best professionals of several areas in
 
 ## Frequently Asked Questions
 
-Head over to our FAQs.
+Head over to our [FAQs](faq.md).
 
 Share with your friends and colleagues! Send any questions, comments or apply to our [positions here](mailto:careers@rezult.io).
