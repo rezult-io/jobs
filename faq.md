@@ -16,6 +16,6 @@ At Rezult IO, we consider facetime super important, and so we want that people s
 
 We do. Be aware that getting VISAs to come and work in Mexico may take a long time. But we like everyone!
 
-## What do you mean by "unlimited vacation"
+## Where do I apply?
 
-We mean that you should rest whenever you need to. Everyone in the company get a number of paid vacation days (determined by country laws). On top of this, we give you a permission to leave for (unpaid) vacation days.
+It's easy, send us an email to [careers@rezult.io](mailto:careers@rezult.io) with the subject of the job position and the body with the requiremewnts.

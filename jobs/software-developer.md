@@ -39,7 +39,6 @@ We are logging for people who improve our team. Our ideal lad is:
 - Employee equity plan.
 - Plenty of coffee, tea and frequent ice-cream - when at the office
 - Liberal work-from-home policy.
-- Unlimited vacation policy.
 
 ## How-to
 
