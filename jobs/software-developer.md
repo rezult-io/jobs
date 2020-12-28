@@ -6,14 +6,14 @@ Your role is to team up with our engineers and build amazing web apps. You'll be
 
 - a fintech web application with the latest .NET technologies;
 - integrate with third parties;
-- tune code, performance measures and write amazing sivler buttet unit and integration tests;
+- tune code, performance measures and write amazing silver bullet unit and integration tests;
 - code reviews, collaborate and be very agile with Scrum;
 
 ## About yourself
 
-We are logging for people who improve our team. Our ideal lad is:
+We are looking for people who improve our team. Our ideal lad is:
 
-- Motivated to solve complex challenges. We are builing great performant web project; this requires cooking up new solutions that handle millions of calculations.
+- Motivated to solve complex challenges. We are building great performant web project; this requires cooking up new solutions that handle millions of calculations.
 - Professional and fun. We value commitment and the ability to stay optimistic and focused, especially in the face of difficult challenges or feedback. But we also find plenty of time to talk about The Big Lebowski.
 - Focused on quality and usability. We hate alarms going off and features that are half-baked as much as you do. Come build a polished product with us!
 
@@ -25,7 +25,7 @@ We are logging for people who improve our team. Our ideal lad is:
 - Experienced in .NET Core, C# and Powershell;
 - Experienced in Sql Server and Git;
 - Experienced in tests (writing unit tests, integration tests and end-to-end tests);
-- Able communicator in English.
+- Able communicator in English;
 
 ## Nice to have
 
